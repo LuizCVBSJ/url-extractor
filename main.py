@@ -9,3 +9,5 @@ print(url_base)
 
 url_parameters = url[index_question + 1:]
 print(url_parameters)
+
+parameter_search = "currencyOrig"
