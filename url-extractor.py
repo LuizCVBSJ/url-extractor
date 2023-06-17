@@ -34,5 +34,4 @@ class ExtractorURL:
         return url_parameters_value
 
 
-
 url = ExtractorURL("https://bytebank.com/exchange?currencyDestination=dolar&currencyOrigin=real&amount=1500")
